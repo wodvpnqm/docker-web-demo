@@ -1,7 +1,7 @@
 docker ps -a
 
 #防止删除失败
-aa-remove-unknown
+#aa-remove-unknown
 
 docker stop webdemo-8452
 docker rm -f webdemo-8452
